@@ -13,7 +13,7 @@ function App() {
       </div>
       <div className="App">
         <h1>Git, Jenkins, Docker & Kubernetes</h1>
-        <p>By Shivasaiprasad Akula Goud</p>
+        <p>By Shivasaiprasad Akula Goud || Full Stack Developer</p>
       </div>
     </>
   );
